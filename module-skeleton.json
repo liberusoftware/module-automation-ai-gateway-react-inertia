@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-ai-gateway-react-inertia",
+  "capabilityKey": "liberusoftware/automation-ai-gateway",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-automation-ai-gateway-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/automation/nextjs/ai-gateway.md",
+  "presentationPlan": "projects/automation/react/ai-gateway.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
